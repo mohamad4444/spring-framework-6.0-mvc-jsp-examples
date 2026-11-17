@@ -3,7 +3,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.telusko</groupId>
-  <artifactId>myapp5</artifactId>
+  <artifactId>spring-mvc-jsp-examples</artifactId>
+  <name>Spring MVC JSP Examples</name>
+  <description>Traditional Spring MVC learning examples with JSP views and XML configuration.</description>
   <version>0.0.1-SNAPSHOT</version>
 
   <dependencies>
