@@ -11,6 +11,6 @@
     <p>Name: ${person.name}</p>
     <p>Name: ${person.age}</p>
     <p>Country: ${person.country}</p>
-    <a href="/myapp2/person">Back to form</a>
+    <a href="${pageContext.request.contextPath}/person">Back to form</a>
 </body>
 </html>
