@@ -1,3 +1,9 @@
+# Historical version notes
+
+These are the original learning notes, preserved for reference. They contain
+inconsistent version and container guidance; they are not verified setup
+instructions. See the [project README](../README.md) for the current snapshot.
+
 # Version
 
 Dynamic web module must be version 4,
